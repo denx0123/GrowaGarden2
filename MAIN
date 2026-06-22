@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VexoScriptsOnTop/_/refs/heads/main/GaG2/SeedPackSpawner.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/3DkqDgO5/raw", true))()
